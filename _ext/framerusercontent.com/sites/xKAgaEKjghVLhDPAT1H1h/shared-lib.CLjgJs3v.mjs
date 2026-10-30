@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Bi-D_2cA.mjs";function t(e,t){return{description:`Design and venture partner for the founders and projects shaping tomorrow.`,favicon:`./_ext/framerusercontent.com/assets/Tvw34by1yAmCWYS89hvoc2HRJsQ.png`,robots:`max-image-preview:large`,socialImage:`./_ext/framerusercontent.com/assets/rNSJ7uYEKtqwCYBSQRPXChc0q4.png`,title:`Design for Tomorrow — angelo.so`}}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=shared-lib.CLjgJs3v.mjs.map
