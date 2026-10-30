@@ -1,15 +1,9 @@
 {
-  "rewrites": [
-    {
-      "source": "/gitee-img/:path*",
-      "destination": "https://raw.giteeusercontent.com/seaflows/picgo-bed-diagram/raw/master/image/BluePic/:path*"
-    }
-  ],
   "headers": [
     {
-      "source": "/gitee-img/(.*)",
+      "source": "/assets/photos/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=2592000, s-maxage=31536000, immutable" }
+        { "key": "Cache-Control", "value": "public, max-age=2592000, immutable" }
       ]
     }
   ]
